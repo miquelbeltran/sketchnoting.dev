@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/my-first-post/</loc>
-    <lastmod>2019-03-01T08:05:59+01:00</lastmod>
+    <loc>https://sketchnoting.dev/sketchnotes/art-of-code-reviews/</loc>
+    <lastmod>2019-03-01T09:33:56+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/about/</loc>
+    <lastmod>2019-02-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/services/</loc>
+    <lastmod>2019-02-28T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/supporting-each-other/</loc>
+    <lastmod>2019-01-24T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -18,7 +29,7 @@
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/</loc>
-    <lastmod>2019-03-01T08:05:59+01:00</lastmod>
+    <lastmod>2019-03-01T09:33:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,7 +40,7 @@
   
   <url>
     <loc>https://sketchnoting.dev/</loc>
-    <lastmod>2019-03-01T08:05:59+01:00</lastmod>
+    <lastmod>2019-03-01T09:33:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -12,8 +12,7 @@ publishDir = "docs"
   copyright = "&copy;2019 beltran.work"
   sidebarAbout = [
     "We are passionate sketchnoters with the goal of sharing knowledge via visual note-taking.",
-    "In our site, you will find all our past sketchnotes.",
-    "You can hire us to sketchnote at your conference or meeting, or you can invite us to perform our Sketchnoting & Lettering Workshop. Check the offerings in the Service section."
+    "In our site, you will find all our past sketchnotes."
   ]
 
   # Nav links in the side bar
@@ -21,10 +20,6 @@ publishDir = "docs"
   name = "Home"
   url = "sketchnotes/"
   home = true
-
-  [[params.navlinks]]
-  name = "Services"
-  url = "services/"
 
   [[params.navlinks]]
   name = "About"

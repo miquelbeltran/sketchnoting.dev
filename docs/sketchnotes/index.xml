@@ -6,17 +6,26 @@
     <description>Recent content in Sketchnotes on sketchnoting.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 08:05:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 09:33:56 +0100</lastBuildDate>
     
 	<atom:link href="https://sketchnoting.dev/sketchnotes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://sketchnoting.dev/sketchnotes/my-first-post/</link>
-      <pubDate>Fri, 01 Mar 2019 08:05:59 +0100</pubDate>
+      <title>The Art Of Code Reviews</title>
+      <link>https://sketchnoting.dev/sketchnotes/art-of-code-reviews/</link>
+      <pubDate>Fri, 01 Mar 2019 09:33:56 +0100</pubDate>
       
-      <guid>https://sketchnoting.dev/sketchnotes/my-first-post/</guid>
+      <guid>https://sketchnoting.dev/sketchnotes/art-of-code-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Each Other: Growth for Juniors and Seniors</title>
+      <link>https://sketchnoting.dev/sketchnotes/supporting-each-other/</link>
+      <pubDate>Thu, 24 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/supporting-each-other/</guid>
       <description></description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on sketchnoting.dev</title>
-    <link>https://sketchnoting.dev/about/</link>
-    <description>Recent content in About on sketchnoting.dev</description>
+    <title>Our Services on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/services/</link>
+    <description>Recent content in Our Services on sketchnoting.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 08:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sketchnoting.dev/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sketchnoting.dev/services/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
