@@ -1,0 +1,49 @@
+baseURL = "https://sketchnoting.dev/"
+languageCode = "en-us"
+title = "sketchnoting.dev"
+theme = "hugo-creative-portfolio-theme"
+publishDir = "docs"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "sketchnoting.dev is a blog for sketchnotes from tech conferences"
+  copyright = "&copy;2019 Miguel Beltran Febrer - beltran.work"
+  sidebarAbout = [
+    "The sketchnoting.dev team are passionate sketchnoters with the goal of sharing knowledge via visual note-taking.",
+    "In our site, you will find all our past sketchnotes.",
+    "You can hire us to come and sketchnote at your conference or meeting, or you can invite us to perform our Sketchnoting & Lettering Workshop. Check the offerings in the Service section."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "sketchnotes/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  email         = "email@example.com"
+  # twitter       = "full profile url in twitter"
+  # youtube       = "full profile url in youtube"
