@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/my-first-post/</loc>
+    <lastmod>2019-03-01T08:05:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/</loc>
+    <lastmod>2019-03-01T08:05:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +29,7 @@
   
   <url>
     <loc>https://sketchnoting.dev/</loc>
+    <lastmod>2019-03-01T08:05:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
