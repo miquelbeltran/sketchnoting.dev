@@ -23,8 +23,57 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/android-internals/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/android-retrospective/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/how-to-be-a-stoic/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/manager-and-you/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/vector-worksflows/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/why-a-country-skipped-a-day/</loc>
+    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/memory-management/</loc>
   </url>
   
   <url>
