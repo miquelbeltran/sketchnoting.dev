@@ -23,82 +23,173 @@
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/android-internals/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/android-retrospective/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/authentic-developer/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/developers-users-too/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/how-to-be-a-stoic/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/manager-and-you/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sketchnoting.dev/sketchnotes/tips-library-devs/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/vector-worksflows/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+    <loc>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/conviced-company-flutter/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/should-we-flutter/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/why-a-country-skipped-a-day/</loc>
-    <lastmod>2018-09-04T08:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/io-android-jetpack/</loc>
+    <lastmod>2018-05-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</loc>
+    <lastmod>2018-05-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/io-whats-new-dev-tools/</loc>
+    <lastmod>2018-05-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/ar-demo-app/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/constrainlayout/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/graywater/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/how-to-contribute/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/google-assistant/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/what-is-flutter/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/android-internals/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/android-retrospective/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/authentic-developer/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/developers-users-too/</loc>
+    <lastmod>2017-10-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/android-arch-components/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/management-developers/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/memory-management/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/multiplatform-kotlin/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/manager-and-you/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</loc>
+    <lastmod>2017-01-01T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/memory-management/</loc>
   </url>
   
   <url>

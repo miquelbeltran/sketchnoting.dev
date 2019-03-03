@@ -30,99 +30,9 @@
     </item>
     
     <item>
-      <title>Android Internals</title>
-      <link>https://sketchnoting.dev/sketchnotes/android-internals/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/android-internals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android: A Retrospective</title>
-      <link>https://sketchnoting.dev/sketchnotes/android-retrospective/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/android-retrospective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authentic Developer</title>
-      <link>https://sketchnoting.dev/sketchnotes/authentic-developer/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/authentic-developer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Becoming A Master Window Fitter</title>
-      <link>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blurring The Line Between Native &amp; Web</title>
-      <link>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Common Poor Coding Patterns</title>
-      <link>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developers Are Users Too</title>
-      <link>https://sketchnoting.dev/sketchnotes/developers-users-too/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/developers-users-too/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How To Be A Stoic</title>
-      <link>https://sketchnoting.dev/sketchnotes/how-to-be-a-stoic/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/how-to-be-a-stoic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kotlin Testing Robots</title>
-      <link>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Manager And You</title>
-      <link>https://sketchnoting.dev/sketchnotes/manager-and-you/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://sketchnoting.dev/sketchnotes/manager-and-you/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tips For Library Devs</title>
       <link>https://sketchnoting.dev/sketchnotes/tips-library-devs/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Oct 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/tips-library-devs/</guid>
       <description></description>
@@ -131,36 +41,288 @@
     <item>
       <title>Vector Workflows</title>
       <link>https://sketchnoting.dev/sketchnotes/vector-worksflows/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Oct 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/vector-worksflows/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What&#39;s Awesome About Flutter</title>
-      <link>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
+      <title>Blurring The Line Between Native &amp; Web</title>
+      <link>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
       
-      <guid>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</guid>
+      <guid>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonts, Emoji, and Text</title>
+      <link>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Conviced My Company To Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/conviced-company-flutter/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/conviced-company-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should We Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/should-we-flutter/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/should-we-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulkan vs. OpenGL</title>
+      <link>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why A Country Skipped A Day</title>
       <link>https://sketchnoting.dev/sketchnotes/why-a-country-skipped-a-day/</link>
-      <pubDate>Tue, 04 Sep 2018 08:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/why-a-country-skipped-a-day/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Android Jetpack: How To Smartly Use Fragments</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-android-jetpack/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-android-jetpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Android Development</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New In Android Dev Tools</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-whats-new-dev-tools/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-whats-new-dev-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AARG! The Google AR Android Demo App</title>
+      <link>https://sketchnoting.dev/sketchnotes/ar-demo-app/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/ar-demo-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConstraintLayout</title>
+      <link>https://sketchnoting.dev/sketchnotes/constrainlayout/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/constrainlayout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graywater: A RecyclerView Framework</title>
+      <link>https://sketchnoting.dev/sketchnotes/graywater/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/graywater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Kontribute</title>
+      <link>https://sketchnoting.dev/sketchnotes/how-to-contribute/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/how-to-contribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow For Mobile Heroes</title>
+      <link>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending The Google Assistant With Actions On Google</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-assistant/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is Flutter And Should I Care?</title>
+      <link>https://sketchnoting.dev/sketchnotes/what-is-flutter/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/what-is-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Internals</title>
+      <link>https://sketchnoting.dev/sketchnotes/android-internals/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/android-internals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android: A Retrospective</title>
+      <link>https://sketchnoting.dev/sketchnotes/android-retrospective/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/android-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentic Developer</title>
+      <link>https://sketchnoting.dev/sketchnotes/authentic-developer/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/authentic-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becoming A Master Window Fitter</title>
+      <link>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common Poor Coding Patterns</title>
+      <link>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Coroutines &amp; Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Across Asia: Our Journey From Java to Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers Are Users Too</title>
+      <link>https://sketchnoting.dev/sketchnotes/developers-users-too/</link>
+      <pubDate>Wed, 25 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/developers-users-too/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Architecture Components</title>
+      <link>https://sketchnoting.dev/sketchnotes/android-arch-components/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/android-arch-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Testing Robots</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management For Developers</title>
+      <link>https://sketchnoting.dev/sketchnotes/management-developers/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/management-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Memory Management In Fully Reactive Apps</title>
       <link>https://sketchnoting.dev/sketchnotes/memory-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/memory-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplatform Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/multiplatform-kotlin/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/multiplatform-kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Manager And You</title>
+      <link>https://sketchnoting.dev/sketchnotes/manager-and-you/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/manager-and-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Awesome About Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/whats-awesome-about-flutter/</guid>
       <description></description>
     </item>
     
