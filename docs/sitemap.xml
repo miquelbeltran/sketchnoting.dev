@@ -233,7 +233,17 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</loc>
+    <lastmod>2018-04-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/ar-demo-app/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-authentic-developer/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
   </url>
   
@@ -243,7 +253,22 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-constraintlayout/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-faster-builds/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/graywater/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-graywater/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
   </url>
   
@@ -253,7 +278,37 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-kontribute/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-love-developers/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-conductor/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/siri-experiment/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-tensorflow/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-ar-core/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
   </url>
   
@@ -268,7 +323,17 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/android-internals/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</loc>
     <lastmod>2017-10-26T08:00:00+00:00</lastmod>
   </url>
   

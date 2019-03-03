@@ -408,11 +408,29 @@
     </item>
     
     <item>
+      <title>Becoming A Better Android Developer</title>
+      <link>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</link>
+      <pubDate>Sun, 01 Apr 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AARG! The Google AR Android Demo App</title>
       <link>https://sketchnoting.dev/sketchnotes/ar-demo-app/</link>
       <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/ar-demo-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentic Developer</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-authentic-developer/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-authentic-developer/</guid>
       <description></description>
     </item>
     
@@ -426,11 +444,38 @@
     </item>
     
     <item>
+      <title>ConstraintLayout</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-constraintlayout/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-constraintlayout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Builds With Gradle 3.0.0</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-faster-builds/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-faster-builds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Graywater: A RecyclerView Framework</title>
       <link>https://sketchnoting.dev/sketchnotes/graywater/</link>
       <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/graywater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graywater: Framework For RecyclerView</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-graywater/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-graywater/</guid>
       <description></description>
     </item>
     
@@ -444,11 +489,65 @@
     </item>
     
     <item>
+      <title>How To Kontribute</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-kontribute/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-kontribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Love Developers Like Your Customers</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-love-developers/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-love-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Say Bye To Fragments With Conductor</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-conductor/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-conductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siri Experiment on iOS</title>
+      <link>https://sketchnoting.dev/sketchnotes/siri-experiment/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/siri-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TensorFlow For Mobile Heroes</title>
       <link>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</link>
       <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow For Mobile Heroes</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-tensorflow/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Google AR Code Demo</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-ar-core/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-ar-core/</guid>
       <description></description>
     </item>
     
@@ -471,11 +570,29 @@
     </item>
     
     <item>
+      <title>Android Coroutines</title>
+      <link>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Android Internals</title>
       <link>https://sketchnoting.dev/sketchnotes/android-internals/</link>
       <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/android-internals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Retrospective</title>
+      <link>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</guid>
       <description></description>
     </item>
     
