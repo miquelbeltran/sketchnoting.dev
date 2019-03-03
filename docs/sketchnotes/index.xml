@@ -327,11 +327,47 @@
     </item>
     
     <item>
+      <title>Android Accessibility</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-accessibility/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blurring Line Between Native And Web</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-native-web/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-native-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blurring The Line Between Native &amp; Web</title>
       <link>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</link>
       <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiling Faster</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-compiling/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-compiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonts, Emoji, And Text On Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</guid>
       <description></description>
     </item>
     
@@ -345,11 +381,38 @@
     </item>
     
     <item>
+      <title>How I Convinced My Company To Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-convinced-flutter/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-convinced-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>I Conviced My Company To Flutter</title>
       <link>https://sketchnoting.dev/sketchnotes/conviced-company-flutter/</link>
       <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/conviced-company-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Apps In Pyjamas</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-apps-pyjama/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-apps-pyjama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering Emoji On Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-emoji-android/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-emoji-android/</guid>
       <description></description>
     </item>
     
@@ -363,11 +426,38 @@
     </item>
     
     <item>
+      <title>Should We Flutter?</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-should-flutter/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-should-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketchnoting Workshop</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-sketchnoting/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-sketchnoting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vulkan vs. OpenGL</title>
       <link>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</link>
       <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When A Country Skip A Day</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-country-skip-day/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-country-skip-day/</guid>
       <description></description>
     </item>
     
@@ -395,6 +485,15 @@
       <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New On Accessibility</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-2018-accessibility/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-2018-accessibility/</guid>
       <description></description>
     </item>
     
@@ -561,11 +660,56 @@
     </item>
     
     <item>
+      <title>Kotlin Testing Robots</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-kotlin-testing-robots/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-kotlin-testing-robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile App Performance</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-mobile-performance/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-mobile-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protobuf on Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-protobuf/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-protobuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What Is Flutter And Should I Care?</title>
       <link>https://sketchnoting.dev/sketchnotes/what-is-flutter/</link>
       <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/what-is-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Awesome About Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-whats-awesome-flutter/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-whats-awesome-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender Diversity In Engineering</title>
+      <link>https://sketchnoting.dev/sketchnotes/hamburg-2017-gender/</link>
+      <pubDate>Mon, 20 Nov 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/hamburg-2017-gender/</guid>
       <description></description>
     </item>
     
@@ -656,6 +800,51 @@
       <pubDate>Wed, 25 Oct 2017 08:00:00 +0000</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/developers-users-too/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Be An Expert</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2017-how-to-be-expert/</link>
+      <pubDate>Sun, 25 Jun 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2017-how-to-be-expert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2017-scaling/</link>
+      <pubDate>Sun, 25 Jun 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2017-scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketchnoting For All</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2017-sketchnoting-for-all/</link>
+      <pubDate>Sun, 25 Jun 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2017-sketchnoting-for-all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Feedback</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2017-user-feedback/</link>
+      <pubDate>Sun, 25 Jun 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2017-user-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Feedback (part 2)</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2017-user-feedback-2/</link>
+      <pubDate>Sun, 25 Jun 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2017-user-feedback-2/</guid>
       <description></description>
     </item>
     

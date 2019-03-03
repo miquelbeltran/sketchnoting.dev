@@ -188,7 +188,27 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-accessibility/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-native-web/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/blurring-line-native-web/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-compiling/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
@@ -198,7 +218,22 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-convinced-flutter/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/conviced-company-flutter/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-apps-pyjama/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-emoji-android/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
@@ -208,7 +243,22 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-should-flutter/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-sketchnoting/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-country-skip-day/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
@@ -224,6 +274,11 @@
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</loc>
+    <lastmod>2018-05-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/io-2018-accessibility/</loc>
     <lastmod>2018-05-08T08:00:00+00:00</lastmod>
   </url>
   
@@ -318,8 +373,33 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlindroid-kotlin-testing-robots/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlindroid-mobile-performance/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlindroid-protobuf/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/what-is-flutter/</loc>
     <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlindroid-whats-awesome-flutter/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/hamburg-2017-gender/</loc>
+    <lastmod>2017-11-20T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -370,6 +450,31 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/developers-users-too/</loc>
     <lastmod>2017-10-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2017-how-to-be-expert/</loc>
+    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2017-scaling/</loc>
+    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2017-sketchnoting-for-all/</loc>
+    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2017-user-feedback/</loc>
+    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2017-user-feedback-2/</loc>
+    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
