@@ -7,25 +7,25 @@ publishDir = "docs"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "sketchnoting.dev is a blog for sketchnotes from tech conferences"
-  copyright = "&copy;2019 beltran.work"
+  style = "violet"
+  description = "sketchnoting.dev: Tech Talks Sketchnotes"
+  copyright = "&copy;2019"
   sidebarAbout = [
-    "We are passionate sketchnoters with the goal of sharing knowledge via visual note-taking.",
-    "In our site, you will find all our past sketchnotes."
+    "We are Lara Martín and Miguel Beltran, two passionate sketchnoters with the goal of sharing knowledge via visual note-taking.",
+    "In this site, you will find all our past sketchnotes, from newest to olderst.",
   ]
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "sketchnotes/"
-  home = true
+  # [[params.navlinks]]
+  # name = "Home"
+  # url = "sketchnotes/"
+  # home = true
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "About"
+  # url = "about/"
 
   [params.social]
-  email         = "email@example.com"
+  # email         = "email@example.com"
   # twitter       = "full profile url in twitter"
   # youtube       = "full profile url in youtube"
