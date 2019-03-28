@@ -6,10 +6,55 @@
     <description>Recent content in Sketchnotes on sketchnoting.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 09:33:56 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 19:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://sketchnoting.dev/sketchnotes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let Me Write Your Networking Code</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-lara/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-lara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let Me Write Your Networking Code</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-miguel/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-miguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styles, Themes, Material Theming, Oh My!</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes-miguel/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes-miguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styles, Themes, Material Theming, Oh My!</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindfulness</title>
+      <link>https://sketchnoting.dev/sketchnotes/wtm-mindfulness/</link>
+      <pubDate>Fri, 01 Mar 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/wtm-mindfulness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Art Of Code Reviews</title>
@@ -17,6 +62,15 @@
       <pubDate>Fri, 01 Mar 2019 09:33:56 +0100</pubDate>
       
       <guid>https://sketchnoting.dev/sketchnotes/art-of-code-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Art Of Code Reviews</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-art-code-reviews/</link>
+      <pubDate>Thu, 28 Feb 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-art-code-reviews/</guid>
       <description></description>
     </item>
     
