@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</loc>
+    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/</loc>
+    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/</loc>
+    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-lara/</loc>
     <lastmod>2019-03-27T19:00:00+01:00</lastmod>
   </url>
@@ -548,19 +565,7 @@
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/</loc>
-    <lastmod>2019-03-27T19:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sketchnoting.dev/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/</loc>
-    <lastmod>2019-03-27T19:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

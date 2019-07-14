@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/7-pilars-design.jpeg"
-date = "2018-11-20T18:25:22+05:30"
-title = "The Seven Pilars Of Design"
+image = "img/sketchnotes/appbuilders-2019-android-animation.jpg"
+date = "2019-04-29T10:30:00+05:30"
+title = "In a World of Pure Android Animation"
 weight = 0
 +++
 
