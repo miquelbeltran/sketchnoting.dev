@@ -3,20 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</loc>
-    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-refactoring-ourselves/</loc>
+    <lastmod>2019-04-30T16:20:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/</loc>
-    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
+    <lastmod>2019-04-30T16:20:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/</loc>
-    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
+    <lastmod>2019-04-30T16:20:00+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-legacy-code/</loc>
+    <lastmod>2019-04-30T11:40:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-workmanager/</loc>
+    <lastmod>2019-04-30T11:40:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-static-analysis/</loc>
+    <lastmod>2019-04-30T10:40:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-sharing-code/</loc>
+    <lastmod>2019-04-30T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-ab-testing/</loc>
+    <lastmod>2019-04-29T14:40:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</loc>
+    <lastmod>2019-04-29T10:30:00+05:30</lastmod>
   </url>
   
   <url>
