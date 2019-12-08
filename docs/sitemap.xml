@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona-lm/</loc>
+    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</loc>
     <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose-lm/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +23,17 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types-lm/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native-lm/</loc>
     <lastmod>2019-12-05T11:00:00+00:00</lastmod>
   </url>
   
@@ -28,8 +48,23 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp-lm/</loc>
+    <lastmod>2019-12-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp/</loc>
     <lastmod>2019-12-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-hammer/</loc>
+    <lastmod>2019-12-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote-lm/</loc>
+    <lastmod>2019-12-05T09:00:00+00:00</lastmod>
   </url>
   
   <url>
