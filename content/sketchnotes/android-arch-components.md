@@ -5,5 +5,6 @@ image = "img/sketchnotes/sketch-30.jpg"
 date = "2017-01-01T08:00:00+00:00"
 title = "Android Architecture Components"
 weight = 0
+tags = ["berlindroid", "android"]
 +++
 
