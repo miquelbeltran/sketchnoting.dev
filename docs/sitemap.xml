@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</loc>
+    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-ktor/</loc>
+    <lastmod>2019-12-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp/</loc>
+    <lastmod>2019-12-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote/</loc>
+    <lastmod>2019-12-05T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/cfcamp-2019-but-doesnt-everyone-on-the-internet-speak-english/</loc>
     <lastmod>2019-10-18T14:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/cfcamp-2019-mouseless-development-in-vi-mode/</loc>
-    <lastmod>2019-10-18T14:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/</loc>
-    <lastmod>2019-10-18T14:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/</loc>
     <lastmod>2019-10-18T14:00:00+05:30</lastmod>
   </url>
   
@@ -398,12 +423,12 @@
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</loc>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</loc>
+    <loc>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
@@ -704,10 +729,24 @@
   
   <url>
     <loc>https://sketchnoting.dev/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/</loc>
+    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/</loc>
+    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

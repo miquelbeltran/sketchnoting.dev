@@ -6,10 +6,73 @@
     <description>Recent content in Sketchnotes on sketchnoting.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Oct 2019 14:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 11:50:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sketchnoting.dev/sketchnotes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lona: scaling server-driven UI with Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</link>
+      <pubDate>Fri, 06 Dec 2019 11:50:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compose: designing first Kotlin UI toolkit</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Of Types</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What parts of an app should be in Kotlin Native?</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ktor for Mobile Developers</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-ktor/</link>
+      <pubDate>Thu, 05 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-ktor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplatform Project Programming with Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp/</link>
+      <pubDate>Thu, 05 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlinconf 2019 - Keynote</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote/</link>
+      <pubDate>Thu, 05 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>But doesn&#39;t everyone on the internet speak English?</title>
