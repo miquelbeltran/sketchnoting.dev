@@ -1,0 +1,9 @@
+{{ template "_internal/opengraph.html" . }}
+{{if .Params.image }}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{.Params.image}}"/>
+{{else}}
+{{if .Site.Params.cover}}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{.Site.Params.cover}}"/>
+{{end}}
+{{end}}
+{{ template "_internal/twitter_cards.html" . }}
