@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codemotion Berlin 18 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/codemotion-berlin-18/</link>
+    <description>Recent content in Codemotion Berlin 18 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Nov 2018 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/codemotion-berlin-18/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everything You Wanted To Know About Crypto</title>
+      <link>https://sketchnoting.dev/sketchnotes/everything-know-crypto/</link>
+      <pubDate>Tue, 20 Nov 2018 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/everything-know-crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Human Side Of Microservices</title>
+      <link>https://sketchnoting.dev/sketchnotes/human-side-microservices/</link>
+      <pubDate>Tue, 20 Nov 2018 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/human-side-microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Seven Pilars Of Design</title>
+      <link>https://sketchnoting.dev/sketchnotes/7-pilars-design/</link>
+      <pubDate>Tue, 20 Nov 2018 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/7-pilars-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

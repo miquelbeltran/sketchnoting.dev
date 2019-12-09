@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Builders 19 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/app-builders-19/</link>
+    <description>Recent content in App Builders 19 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Apr 2019 16:20:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/app-builders-19/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Refactoring Ourselves</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-refactoring-ourselves/</link>
+      <pubDate>Tue, 30 Apr 2019 16:20:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-refactoring-ourselves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congratulations! Legacy Code GURU Level Unlocked!</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-legacy-code/</link>
+      <pubDate>Tue, 30 Apr 2019 11:40:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-legacy-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embrace the WorkManager</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-workmanager/</link>
+      <pubDate>Tue, 30 Apr 2019 11:40:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-workmanager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Says No — Static Analysis and CI in a Kotlin World</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-static-analysis/</link>
+      <pubDate>Tue, 30 Apr 2019 10:40:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-static-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Code Between iOS and Android Apps</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-sharing-code/</link>
+      <pubDate>Tue, 30 Apr 2019 10:00:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-sharing-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Realities of A/B Testing</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-ab-testing/</link>
+      <pubDate>Mon, 29 Apr 2019 14:40:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-ab-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In a World of Pure Android Animation</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</link>
+      <pubDate>Mon, 29 Apr 2019 10:30:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

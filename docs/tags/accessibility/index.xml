@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/accessibility/</link>
+    <description>Recent content in Accessibility on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demystifying Android Accessibility Development</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-accessibility-dev/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-accessibility-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing for Accessibility</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-designing-accessibility/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-designing-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Accessibility</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-accessibility/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New On Accessibility</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-2018-accessibility/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-2018-accessibility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlinconf 19 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/kotlinconf-19/</link>
+    <description>Recent content in Kotlinconf 19 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2019 11:50:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/kotlinconf-19/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lona: scaling server-driven UI with Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona-lm/</link>
+      <pubDate>Fri, 06 Dec 2019 11:50:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lona: scaling server-driven UI with Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</link>
+      <pubDate>Fri, 06 Dec 2019 11:50:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compose: designing first Kotlin UI toolkit</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compose: designing first Kotlin UI toolkit</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Of Types</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Of Types</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-power-of-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What parts of an app should be in Kotlin Native?</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What parts of an app should be in Kotlin Native?</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ktor for Mobile Developers</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-ktor/</link>
+      <pubDate>Thu, 05 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-ktor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplatform Project Programming with Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplatform Project Programming with Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp/</link>
+      <pubDate>Thu, 05 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-mpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting Down The Golden Hammer</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-hammer/</link>
+      <pubDate>Thu, 05 Dec 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-hammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlinconf 2019 - Keynote</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlinconf 2019 - Keynote</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote/</link>
+      <pubDate>Thu, 05 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

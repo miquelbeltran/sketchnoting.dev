@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Droidcon It 18 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/droidcon-it-18/</link>
+    <description>Recent content in Droidcon It 18 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 08:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/droidcon-it-18/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Becoming A Better Android Developer</title>
+      <link>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</link>
+      <pubDate>Sun, 01 Apr 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

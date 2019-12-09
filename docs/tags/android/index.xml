@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/android/</link>
+    <description>Recent content in Android on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compose: designing first Kotlin UI toolkit</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compose: designing first Kotlin UI toolkit</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What parts of an app should be in Kotlin Native?</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native-lm/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native-lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What parts of an app should be in Kotlin Native?</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</link>
+      <pubDate>Thu, 05 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do The Loco-Motion: MotionLayout</title>
+      <link>https://sketchnoting.dev/sketchnotes/droidcon-uk-19-locomotion/</link>
+      <pubDate>Thu, 24 Oct 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/droidcon-uk-19-locomotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When in Rome, speak maybe not Italian</title>
+      <link>https://sketchnoting.dev/sketchnotes/droidcon-uk-19-rome/</link>
+      <pubDate>Thu, 24 Oct 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/droidcon-uk-19-rome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your First AOSP Contribution</title>
+      <link>https://sketchnoting.dev/sketchnotes/devfest-19-aosp/</link>
+      <pubDate>Thu, 24 Oct 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/devfest-19-aosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Next? Driving inclusive design at your company</title>
+      <link>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-inclusive-design/</link>
+      <pubDate>Wed, 03 Jul 2019 16:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-inclusive-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inclusive Craft</title>
+      <link>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-inclusive-craft/</link>
+      <pubDate>Tue, 02 Jul 2019 17:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-inclusive-craft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android with a side of Flutter, please</title>
+      <link>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-android-flutter/</link>
+      <pubDate>Tue, 02 Jul 2019 11:00:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-android-flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking your users’ money: In-app billing from start to best practices</title>
+      <link>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-in-app-billing/</link>
+      <pubDate>Mon, 01 Jul 2019 15:10:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/droidcon-berlin-2019-in-app-billing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-new-android/</link>
+      <pubDate>Tue, 07 May 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-new-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in Architecture Components</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-new-arch-components/</link>
+      <pubDate>Tue, 07 May 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-new-arch-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embrace the WorkManager</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-workmanager/</link>
+      <pubDate>Tue, 30 Apr 2019 11:40:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-workmanager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In a World of Pure Android Animation</title>
+      <link>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</link>
+      <pubDate>Mon, 29 Apr 2019 10:30:00 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/appbuilders-2019-android-animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let Me Write Your Networking Code</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-lara/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-lara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let Me Write Your Networking Code</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-miguel/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-swagger-miguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styles, Themes, Material Theming, Oh My!</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes-miguel/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes-miguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Styles, Themes, Material Theming, Oh My!</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes/</link>
+      <pubDate>Wed, 27 Mar 2019 19:00:00 +0100</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-styles-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security And Pie</title>
+      <link>https://sketchnoting.dev/sketchnotes/security-pie/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/security-pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple MVI</title>
+      <link>https://sketchnoting.dev/sketchnotes/devfestfl-simple-mvi/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/devfestfl-simple-mvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple MVI</title>
+      <link>https://sketchnoting.dev/sketchnotes/simple-mvi/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/simple-mvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road To Multimodule</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-road-to-multimodule/</link>
+      <pubDate>Tue, 20 Nov 2018 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-road-to-multimodule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Criminals: Animations Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/smooth-criminals/</link>
+      <pubDate>Fri, 26 Oct 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/smooth-criminals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips For Library Devs</title>
+      <link>https://sketchnoting.dev/sketchnotes/tips-library-devs/</link>
+      <pubDate>Thu, 25 Oct 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tips-library-devs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Workflows</title>
+      <link>https://sketchnoting.dev/sketchnotes/vector-worksflows/</link>
+      <pubDate>Thu, 25 Oct 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/vector-worksflows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blurring Line Between Native And Web</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-native-web/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-native-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiling Faster</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-compiling/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-compiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonts, Emoji, And Text On Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonts, Emoji, and Text</title>
+      <link>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering Emoji On Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlin-2018-emoji-android/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlin-2018-emoji-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulkan vs. OpenGL</title>
+      <link>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</link>
+      <pubDate>Mon, 25 Jun 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/vulkan-opengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Jetpack: How To Smartly Use Fragments</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-android-jetpack/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-android-jetpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Android Development</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New In Android Dev Tools</title>
+      <link>https://sketchnoting.dev/sketchnotes/io-whats-new-dev-tools/</link>
+      <pubDate>Tue, 08 May 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/io-whats-new-dev-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becoming A Better Android Developer</title>
+      <link>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</link>
+      <pubDate>Sun, 01 Apr 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/italy-2018-becoming-better-android-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AARG! The Google AR Android Demo App</title>
+      <link>https://sketchnoting.dev/sketchnotes/ar-demo-app/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/ar-demo-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConstraintLayout</title>
+      <link>https://sketchnoting.dev/sketchnotes/constrainlayout/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/constrainlayout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConstraintLayout</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-constraintlayout/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-constraintlayout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Builds With Gradle 3.0.0</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-faster-builds/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-faster-builds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graywater: A RecyclerView Framework</title>
+      <link>https://sketchnoting.dev/sketchnotes/graywater/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/graywater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graywater: Framework For RecyclerView</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-graywater/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-graywater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Kontribute</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-kontribute/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-kontribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Say Bye To Fragments With Conductor</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-conductor/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-conductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow For Mobile Heroes</title>
+      <link>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tensorflow-mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow For Mobile Heroes</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-tensorflow/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Google AR Code Demo</title>
+      <link>https://sketchnoting.dev/sketchnotes/tokyo-2018-ar-core/</link>
+      <pubDate>Thu, 08 Feb 2018 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/tokyo-2018-ar-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protobuf on Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/berlindroid-protobuf/</link>
+      <pubDate>Sat, 25 Nov 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/berlindroid-protobuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Coroutines</title>
+      <link>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Internals</title>
+      <link>https://sketchnoting.dev/sketchnotes/android-internals/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/android-internals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Retrospective</title>
+      <link>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android: A Retrospective</title>
+      <link>https://sketchnoting.dev/sketchnotes/android-retrospective/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/android-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becoming A Master Window Fitter</title>
+      <link>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common Poor Coding Patterns</title>
+      <link>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Coroutines &amp; Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Across Asia: Our Journey From Java to Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers Are Users Too</title>
+      <link>https://sketchnoting.dev/sketchnotes/developers-users-too/</link>
+      <pubDate>Wed, 25 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/developers-users-too/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Architecture Components</title>
+      <link>https://sketchnoting.dev/sketchnotes/android-arch-components/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/android-arch-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Testing Robots</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</link>
+      <pubDate>Sun, 01 Jan 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlin-testing-robot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

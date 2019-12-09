@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devfest Florida 19 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/devfest-florida-19/</link>
+    <description>Recent content in Devfest Florida 19 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Jan 2019 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/devfest-florida-19/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterpise Mobile Hybrid Apps</title>
+      <link>https://sketchnoting.dev/sketchnotes/enterprise-mobile-hybrid-app/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/enterprise-mobile-hybrid-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Kotlin Multiplatform</title>
+      <link>https://sketchnoting.dev/sketchnotes/exploring-kotlin-multiplatform/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/exploring-kotlin-multiplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter For Busy People</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-busy-people/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-busy-people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Multiplatform</title>
+      <link>https://sketchnoting.dev/sketchnotes/devfestfl-kotlin-multiplatform/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/devfestfl-kotlin-multiplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security And Pie</title>
+      <link>https://sketchnoting.dev/sketchnotes/security-pie/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/security-pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selfcare For Developers</title>
+      <link>https://sketchnoting.dev/sketchnotes/devfestfl-selfcare-developers/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/devfestfl-selfcare-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selfcare For Developers</title>
+      <link>https://sketchnoting.dev/sketchnotes/selfcare-developers/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/selfcare-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple MVI</title>
+      <link>https://sketchnoting.dev/sketchnotes/devfestfl-simple-mvi/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/devfestfl-simple-mvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple MVI</title>
+      <link>https://sketchnoting.dev/sketchnotes/simple-mvi/</link>
+      <pubDate>Sat, 19 Jan 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/simple-mvi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

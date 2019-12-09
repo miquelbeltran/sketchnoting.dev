@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Io 19 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/google-io-19/</link>
+    <description>Recent content in Google Io 19 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/google-io-19/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond Mobile: Building Flutter Apps for iOS, Android, Chrome OS, and Web</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-beyond-mobile/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-beyond-mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Mobile: Material Design, Adaptable UIs, and Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-design-widgets/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-design-widgets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building for iOS with Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-ios/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dart: Productive, Fast, Multi-Platform</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-dart/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Android Accessibility Development</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-accessibility-dev/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-accessibility-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing for Accessibility</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-designing-accessibility/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-designing-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pragmatic State Management in Flutter</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-state-management/</link>
+      <pubDate>Wed, 08 May 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-state-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Keynote</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-keynote/</link>
+      <pubDate>Tue, 07 May 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-new-android/</link>
+      <pubDate>Tue, 07 May 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-new-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s New in Architecture Components</title>
+      <link>https://sketchnoting.dev/sketchnotes/google-io-2019-new-arch-components/</link>
+      <pubDate>Tue, 07 May 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/google-io-2019-new-arch-components/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

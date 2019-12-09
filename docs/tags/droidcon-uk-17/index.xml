@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Droidcon Uk 17 on sketchnoting.dev</title>
+    <link>https://sketchnoting.dev/tags/droidcon-uk-17/</link>
+    <description>Recent content in Droidcon Uk 17 on sketchnoting.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2017 08:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sketchnoting.dev/tags/droidcon-uk-17/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android Coroutines</title>
+      <link>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/london-2017-coroutines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Retrospective</title>
+      <link>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/london-2017-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentic Developer</title>
+      <link>https://sketchnoting.dev/sketchnotes/authentic-developer/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/authentic-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becoming A Master Window Fitter</title>
+      <link>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/becoming-master-window-fitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Common Poor Coding Patterns</title>
+      <link>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/common-poor-coding-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin Coroutines &amp; Android</title>
+      <link>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Across Asia: Our Journey From Java to Kotlin</title>
+      <link>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</link>
+      <pubDate>Thu, 26 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/journey-java-to-kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers Are Users Too</title>
+      <link>https://sketchnoting.dev/sketchnotes/developers-users-too/</link>
+      <pubDate>Wed, 25 Oct 2017 08:00:00 +0000</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/developers-users-too/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
