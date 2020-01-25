@@ -1,15 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flutter on sketchnoting.dev</title>
+    <title>flutter on sketchnoting.dev</title>
     <link>https://sketchnoting.dev/tags/flutter/</link>
-    <description>Recent content in Flutter on sketchnoting.dev</description>
+    <description>Recent content in flutter on sketchnoting.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 11:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://sketchnoting.dev/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flutter at work</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-work-m/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-work-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter at work</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-work/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter for Desktop</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-desktop-m/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-desktop-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter for Desktop</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-desktop/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-desktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter Performance</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-performance-m/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-performance-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter Performance</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-performance/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigator, Routes and Transitions</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-nav-m/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-nav-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigator, Routes and Transitions</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-nav/</link>
+      <pubDate>Thu, 23 Jan 2020 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-nav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter Interact 2019</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-interact-2019-m/</link>
+      <pubDate>Wed, 11 Dec 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-interact-2019-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter Interact 2019</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-interact-2019/</link>
+      <pubDate>Wed, 11 Dec 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-interact-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Theming</title>
+      <link>https://sketchnoting.dev/sketchnotes/flutter-interact-2019-material-m/</link>
+      <pubDate>Wed, 11 Dec 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://sketchnoting.dev/sketchnotes/flutter-interact-2019-material-m/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Android with a side of Flutter, please</title>

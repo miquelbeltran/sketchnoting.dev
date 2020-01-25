@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kotlinconf 19 on sketchnoting.dev</title>
+    <title>kotlinconf-19 on sketchnoting.dev</title>
     <link>https://sketchnoting.dev/tags/kotlinconf-19/</link>
-    <description>Recent content in Kotlinconf 19 on sketchnoting.dev</description>
+    <description>Recent content in kotlinconf-19 on sketchnoting.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2019 11:50:00 +0000</lastBuildDate>

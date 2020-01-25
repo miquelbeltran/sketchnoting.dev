@@ -1,6 +1,101 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/flutter/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-work-m/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-work/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-desktop-m/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-desktop/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-performance-m/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-performance/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/flutter-europe-20/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-nav-m/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-europe-2020-nav/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/</loc>
+    <lastmod>2020-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-interact-2019-m/</loc>
+    <lastmod>2019-12-11T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-interact-2019/</loc>
+    <lastmod>2019-12-11T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/flutter-interact/</loc>
+    <lastmod>2019-12-11T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/flutter-interact-2019-material-m/</loc>
+    <lastmod>2019-12-11T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/kotlin/</loc>
+    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/kotlinconf-19/</loc>
+    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona-lm/</loc>
@@ -10,6 +105,11 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-lona/</loc>
     <lastmod>2019-12-06T11:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/android/</loc>
+    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -63,6 +163,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/keynote/</loc>
+    <lastmod>2019-12-05T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlinconf-2019-keynote-lm/</loc>
     <lastmod>2019-12-05T09:00:00+00:00</lastmod>
   </url>
@@ -83,7 +188,17 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/devfest-berlin-19/</loc>
+    <lastmod>2019-10-24T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/droidcon-uk-19-locomotion/</loc>
+    <lastmod>2019-10-24T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/droidcon-uk-19/</loc>
     <lastmod>2019-10-24T11:00:00+00:00</lastmod>
   </url>
   
@@ -118,6 +233,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/cfcamp-19/</loc>
+    <lastmod>2019-10-18T14:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/cfcamp-2019-mouseless-development-in-vi-mode/</loc>
     <lastmod>2019-10-18T14:00:00+05:30</lastmod>
   </url>
@@ -125,6 +245,11 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/cfcamp-2019-moving-to-linux-as-a-dev/</loc>
     <lastmod>2019-10-18T14:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/droidcon-de-19/</loc>
+    <lastmod>2019-07-03T16:50:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,6 +298,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/accessibility/</loc>
+    <lastmod>2019-05-08T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-beyond-mobile/</loc>
     <lastmod>2019-05-08T11:00:00+00:00</lastmod>
   </url>
@@ -203,6 +333,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/google-io-19/</loc>
+    <lastmod>2019-05-08T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/google-io-2019-flutter-state-management/</loc>
     <lastmod>2019-05-08T11:00:00+00:00</lastmod>
   </url>
@@ -220,6 +355,11 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/google-io-2019-new-arch-components/</loc>
     <lastmod>2019-05-07T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/app-builders-19/</loc>
+    <lastmod>2019-04-30T16:20:00+05:30</lastmod>
   </url>
   
   <url>
@@ -243,6 +383,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/mobile/</loc>
+    <lastmod>2019-04-30T10:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/appbuilders-2019-sharing-code/</loc>
     <lastmod>2019-04-30T10:00:00+05:30</lastmod>
   </url>
@@ -260,6 +405,16 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/pyladies-2019-from-academia-to-data-science/</loc>
     <lastmod>2019-04-09T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/python/</loc>
+    <lastmod>2019-04-09T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/berlindroid/</loc>
+    <lastmod>2019-03-27T19:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -323,6 +478,16 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/whomen-who-code/</loc>
+    <lastmod>2019-01-24T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/devfest-florida-19/</loc>
+    <lastmod>2019-01-19T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/enterprise-mobile-hybrid-app/</loc>
     <lastmod>2019-01-19T18:25:22+05:30</lastmod>
   </url>
@@ -373,6 +538,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/codemotion-berlin-18/</loc>
+    <lastmod>2018-11-20T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/everything-know-crypto/</loc>
     <lastmod>2018-11-20T18:25:22+05:30</lastmod>
   </url>
@@ -418,6 +588,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/dachfest-18/</loc>
+    <lastmod>2018-11-11T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/dachfest-interview-process-scratch/</loc>
     <lastmod>2018-11-11T08:00:00+00:00</lastmod>
   </url>
@@ -444,6 +619,11 @@
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/apps-for-everyone/</loc>
+    <lastmod>2018-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/droidcon-uk-18/</loc>
     <lastmod>2018-10-26T08:00:00+00:00</lastmod>
   </url>
   
@@ -498,12 +678,17 @@
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</loc>
+    <loc>https://sketchnoting.dev/tags/droidcon-de-18/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/fonts-emoji-text/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-fonts-emoji-text/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
   
@@ -538,6 +723,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/sketchnoting/</loc>
+    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/berlin-2018-sketchnoting/</loc>
     <lastmod>2018-06-25T08:00:00+00:00</lastmod>
   </url>
@@ -563,6 +753,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/google-io-18/</loc>
+    <lastmod>2018-05-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/io-modern-android-dev/</loc>
     <lastmod>2018-05-08T08:00:00+00:00</lastmod>
   </url>
@@ -583,6 +778,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/droidcon-it-18/</loc>
+    <lastmod>2018-04-01T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/ar-demo-app/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
   </url>
@@ -599,6 +799,11 @@
   
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-constraintlayout/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/droidkaigi-18/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
   </url>
   
@@ -633,6 +838,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/ios/</loc>
+    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-conductor/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
   </url>
@@ -655,6 +865,11 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/tokyo-2018-ar-core/</loc>
     <lastmod>2018-02-08T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/assistant/</loc>
+    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -685,6 +900,11 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/berlindroid-whats-awesome-flutter/</loc>
     <lastmod>2017-11-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/devfest-hamburg-17/</loc>
+    <lastmod>2017-11-20T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -728,6 +948,11 @@
   </url>
   
   <url>
+    <loc>https://sketchnoting.dev/tags/droidcon-uk-17/</loc>
+    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sketchnoting.dev/sketchnotes/kotlin-coroutines-android/</loc>
     <lastmod>2017-10-26T08:00:00+00:00</lastmod>
   </url>
@@ -740,6 +965,11 @@
   <url>
     <loc>https://sketchnoting.dev/sketchnotes/developers-users-too/</loc>
     <lastmod>2017-10-25T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sketchnoting.dev/tags/droidcon-de-17/</loc>
+    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -803,206 +1033,7 @@
   </url>
   
   <url>
-    <loc>https://sketchnoting.dev/tags/accessibility/</loc>
-    <lastmod>2019-05-08T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/android/</loc>
-    <lastmod>2019-12-05T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/app-builders-19/</loc>
-    <lastmod>2019-04-30T16:20:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/assistant/</loc>
-    <lastmod>2017-11-25T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/berlindroid/</loc>
-    <lastmod>2019-03-27T19:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sketchnoting.dev/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/cfcamp-19/</loc>
-    <lastmod>2019-10-18T14:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/codemotion-berlin-18/</loc>
-    <lastmod>2018-11-20T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/dachfest-18/</loc>
-    <lastmod>2018-11-11T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/devfest-berlin-19/</loc>
-    <lastmod>2019-10-24T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/devfest-florida-19/</loc>
-    <lastmod>2019-01-19T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/devfest-hamburg-17/</loc>
-    <lastmod>2017-11-20T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-de-17/</loc>
-    <lastmod>2017-06-25T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-de-18/</loc>
-    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-de-19/</loc>
-    <lastmod>2019-07-03T16:50:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-it-18/</loc>
-    <lastmod>2018-04-01T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-uk-17/</loc>
-    <lastmod>2017-10-26T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-uk-18/</loc>
-    <lastmod>2018-10-26T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidcon-uk-19/</loc>
-    <lastmod>2019-10-24T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/droidkaigi-18/</loc>
-    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/flutter/</loc>
-    <lastmod>2019-07-02T11:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/google-io-18/</loc>
-    <lastmod>2018-05-08T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/google-io-19/</loc>
-    <lastmod>2019-05-08T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/ios/</loc>
-    <lastmod>2018-02-08T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/keynote/</loc>
-    <lastmod>2019-12-05T09:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/kotlin/</loc>
-    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/kotlinconf-19/</loc>
-    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/mobile/</loc>
-    <lastmod>2019-04-30T10:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/python/</loc>
-    <lastmod>2019-04-09T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/sketchnotes/</loc>
-    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/sketchnoting/</loc>
-    <lastmod>2018-06-25T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/</loc>
-    <lastmod>2019-05-08T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/tags/whomen-who-code/</loc>
-    <lastmod>2019-01-24T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sketchnoting.dev/</loc>
-    <lastmod>2019-12-06T11:50:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
