@@ -21,7 +21,7 @@ We are happy to accept the following contributions:
 - Adding the abstract to a talk.
 
 To do so, navigate to https://github.com/miquelbeltran/sketchnoting.dev/tree/master/content/sketchnotes where
-you will be able to find the talk you want to improve and send us a Pull-Request modifying the markdown file.
+you can find the talk you want to improve and send us a Pull-Request modifying the markdown file.
 
 # License
 
