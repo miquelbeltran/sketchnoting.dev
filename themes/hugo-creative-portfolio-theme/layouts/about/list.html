@@ -4,10 +4,21 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
+        <h3>{{ .Title }}</h3>
+        {{ range .Site.Params.sidebarAbout }}
+        {{ . | safeHTML }}
+        {{ end }}
+      </div>
+      <div class="copyright">
+        <p class="credit">
+          {{ with .Site.Params.copyright }}
+          {{ . | safeHTML }}
+          {{ end }}
+          {{ partial "attribution.html" . }}
+        </p>
       </div>
     </div>
   </div>
+</div>
 </div>
 {{ end }}
