@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/sketch-33.jpg"
+image = "sketch-33"
 date = "2018-06-25T08:00:00+00:00"
 title = "I Conviced My Company To Flutter"
 weight = 0

@@ -6,7 +6,8 @@
       <p class="content-column-content">
       <h1>{{ .Title }}</h1>
       {{ if and (isset .Params "image") .Params.image }}
-      <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+      {{ $path := printf "img/sketchnotes/%s-full.jpg" .Params.image }}
+      <img src="{{ $path | absURL}}" alt="" class="img-responsive">
       {{ end }}
       {{ .Content }}
       <h5>Tags</h5>

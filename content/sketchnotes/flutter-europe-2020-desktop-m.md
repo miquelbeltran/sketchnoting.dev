@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/fluttereurope-2020-desktop-m.jpg"
+image = "fluttereurope-2020-desktop-m"
 date = "2020-01-23T18:25:22+05:30"
 title = "Flutter for Desktop"
 weight = 0

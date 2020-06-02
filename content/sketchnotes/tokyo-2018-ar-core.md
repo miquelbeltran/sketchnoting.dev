@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/tokio-2018-ar-core.jpg"
+image = "tokio-2018-ar-core"
 date = "2018-02-08T08:00:00+00:00"
 title = "The Google AR Code Demo"
 weight = 0

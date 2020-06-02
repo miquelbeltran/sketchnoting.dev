@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/kotlinconf_19_ktor.jpeg"
+image = "kotlinconf_19_ktor"
 date = "2019-12-05T10:00:00+00:00"
 title = "Ktor for Mobile Developers"
 weight = 0

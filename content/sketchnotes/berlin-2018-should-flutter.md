@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/berlin-2018-should-flutter.jpg"
+image = "berlin-2018-should-flutter"
 date = "2018-06-25T08:00:00+00:00"
 title = "Should We Flutter?"
 weight = 0

@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/sketch-11.jpg"
+image = "sketch-11"
 date = "2018-10-25T08:00:00+00:00"
 title = "Tips For Library Devs"
 weight = 0

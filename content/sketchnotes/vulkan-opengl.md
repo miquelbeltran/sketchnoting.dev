@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/sketch-34.jpg"
+image = "sketch-34"
 date = "2018-06-25T08:00:00+00:00"
 title = "Vulkan vs. OpenGL"
 weight = 0

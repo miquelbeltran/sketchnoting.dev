@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/devfest-19-pair.jpg"
+image = "devfest-19-pair"
 date = "2019-10-24T11:00:00+00:00"
 title = "Pair Programming"
 weight = 0

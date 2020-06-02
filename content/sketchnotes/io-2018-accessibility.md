@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/io-2018-accessibility.jpg"
+image = "io-2018-accessibility"
 date = "2018-05-08T08:00:00+00:00"
 title = "New On Accessibility"
 weight = 0

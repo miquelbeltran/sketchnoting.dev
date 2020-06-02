@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/droidcon-uk-19-locomotion.jpg"
+image = "droidcon-uk-19-locomotion"
 date = "2019-10-24T11:00:00+00:00"
 title = "Do The Loco-Motion: MotionLayout"
 weight = 0

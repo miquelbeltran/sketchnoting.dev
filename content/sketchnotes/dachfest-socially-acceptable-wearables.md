@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/dachfest-socially-acceptable-wearables.jpg"
+image = "dachfest-socially-acceptable-wearables"
 date = "2018-11-11T08:00:00+00:00"
 title = "Socially Acceptable Wearables"
 weight = 0

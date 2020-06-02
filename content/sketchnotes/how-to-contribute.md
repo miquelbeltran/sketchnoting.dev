@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sketchnotes/sketch-22.jpg"
+image = "sketch-22"
 date = "2018-02-08T08:00:00+00:00"
 title = "How To Kontribute"
 weight = 0
