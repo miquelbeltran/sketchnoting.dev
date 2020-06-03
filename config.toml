@@ -11,7 +11,7 @@ publishDir = "docs"
   description = "sketchnoting.dev: Tech Talks Sketchnotes"
   copyright = "&copy;2019"
   sidebarAbout = [
-    "We are Lara Martín and Miguel Beltran, two passionate sketchnoters with the goal of sharing knowledge via visual note-taking.",
+    "We are <a href=\"https://twitter.com/lariki/\">Lara Martín</a> and <a href=\"https://twitter.com/MiBLT\">Miguel Beltran</a>, two passionate sketchnoters with the goal of sharing knowledge via visual note-taking.",
     "In this site, you will find all our past sketchnotes, from newest to olderst.",
   ]
 
